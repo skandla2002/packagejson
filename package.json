@@ -1,0 +1,8 @@
+{
+  "name": "packagejson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skandla2002/packagejson.git",
+  "author": "Andy Pak <skandla2002@gmail.com>",
+  "license": "MIT"
+}
